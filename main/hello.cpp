@@ -6,5 +6,7 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
-  cout << "Now I have successfully become a continuous integrator" return 0;
+  cout << "Now I have successfully become a continuous integrator\n";
+  cout << "Yet again! \n";
+  return 0;
 }
