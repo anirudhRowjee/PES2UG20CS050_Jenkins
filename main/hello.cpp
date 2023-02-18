@@ -8,6 +8,5 @@ int main(void) {
   cout << "I have successfully built and run\n";
   cout << "Now I have successfully become a continuous integrator\n";
   cout << "Yet again! \n";
-  cout << "And Yet again! \n";
-  return 0;
+  cout << "And Yet again! \n"; return 0;
 }
